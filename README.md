@@ -1,6 +1,9 @@
 # 2026-ISM--Integrated-SCM-MLIP
 This repository contains the code and slurm files required to run the ISM through a HPC Cluster.
 
+**Set up Instructions**
+Create a virtual environment, the default name in the sh files is "super_salt_env".
+
 Download all python files in the "Pipeline" folder, all shell scripts in the "Shell_Scripts" folder, and the "SuperSalt-swa.model" file from the data availablity section of the original SuperSalt paper: "https://doi.org/10.5281/zenodo.15734798".
 
 Thermal conductivity can be predicted by entering a command in the following format: "./submit_master_pipeline.sh 0.32MgCl2-0.68KCl 800" for the case of 0.32MgCl2-0.68KCl at 800 K. 
