@@ -9,11 +9,15 @@ This pipeline is from the paper:
 
 ### Download necessary files
 #### File List
-> ** -super_salt_env.yml **
-> ** SuperSalt-swa.model from SuperSalt paper **
-> ** -all files in Pipeline **
-> ** -all files in Shell_Scripts **
->> _If you want to use the Redlich-Kister density model, "Molten_Salt_Thermophysical_Properties_rho_RK" and "Molten_Salt_Thermophysical_Properties" from the MSD-TP_
+> -**super_salt_env.yml**
+
+> -**SuperSalt-swa.model from SuperSalt paper**
+
+> -**all files in Pipeline**
+
+> -**all files in Shell_Scripts**
+
+>> - _If you want to use the Redlich-Kister density model, "Molten_Salt_Thermophysical_Properties_rho_RK" and "Molten_Salt_Thermophysical_Properties" from the MSD-TP_
 
 #### Instructions
 Create a virtual environment, using the "super_salt_env" yml file.
