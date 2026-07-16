@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=Calc_SCL
 #SBATCH --output=slurm_scl_%j.out
-#SBATCH --time=10:00:00
+#SBATCH --time=02:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
