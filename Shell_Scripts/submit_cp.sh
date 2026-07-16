@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=Calc_Cp
 #SBATCH --output=slurm_Cp_%j.out
-#SBATCH --time=28:00:00
+#SBATCH --time=08:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
