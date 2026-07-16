@@ -16,4 +16,4 @@ TEMP=$2
 
 # Call the Python script (assuming FLiNaK fractions for example, adjust logic as needed)
 # In production, you might want to pass x1 and x2 from the master script too!
-python RK_Density.py --comp $COMP --temp $TEMP --out density_${COMP}_${TEMP}K.txt
+python RK_density.py --comp $COMP --temp $TEMP --out density_${COMP}_${TEMP}K.txt
