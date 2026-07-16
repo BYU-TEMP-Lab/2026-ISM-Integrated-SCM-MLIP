@@ -3,7 +3,7 @@
 This repository contains the code and slurm files required to run the ISM through a HPC Cluster.
 
 This pipeline is from the paper:
-> **Integration of a Structural Coherence Model with a Semi-Universal Machine Learning Interatomic Potential to Predict Molten Salt Thermal Conductivity** (Walker et al., 2026).
+> **Integration of a Structural Coherence Model with a Semi-Universal Machine Learning Interatomic Potential to Predict Molten Salt Thermal Conductivity** (Walker et al., 2026). DOI: 10.21203/rs.3.rs-10223172/v1
 
 ## Set-up Instructions
 
