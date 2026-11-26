@@ -19,4 +19,4 @@ COMP=$1
 TEMP=$2
 
 # Execute the Density Finder
-python MD_density.py --comp $COMP --temp $TEMP --out density_${COMP}_${TEMP}K.txt
+python MD_density.py --comp $COMP --temp $TEMP
